@@ -1,0 +1,6 @@
+[
+    {
+      "name": "demo-container",
+      "imageUri": "${ACCOUNTID}.dkr.ecr.ap-northeast-2.amazonaws.com/demo-container:2"
+    }
+]
