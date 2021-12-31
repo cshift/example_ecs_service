@@ -15,5 +15,4 @@
 
    ![image](https://user-images.githubusercontent.com/77256060/147802860-5d709ed4-89ed-4364-9cb6-4c56e907eae3.png)
 
-2. 모든 Artifacts 파일의 AWS Account ID 수정
-
+2. 모든 Artifacts 파일 AWS Account ID 환경 변수 수정
